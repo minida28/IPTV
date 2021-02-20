@@ -109,7 +109,7 @@ rtp://@239.1.2.203:9180
 #EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/c/c1/Fox_Sports_3_HD-0.png/revision/latest/scale-to-width-down/600" group-title="HD Channel",[975] FOX Sport 3 HD
 rtp://@239.1.2.205:9186
 
-#EXTINF:-1 tvg-logo="http://www.lbn.lk/images/channel-logo/1464927889njn.png" group-title="HD Channel",[976] Fight Sport HD
+#EXTINF:-1 tvg-logo="https://www.fightsports.tv/wp-content/uploads/2017/04/FightSportsLogo2x.png" group-title="HD Channel",[976] Fight Sport HD
 rtp://@239.1.2.209:9196
 
 #EXTINF:-1 tvg-logo="http://www.genserv-ph.com/assets/img/sattv/nhkworld.png" group-title="HD Channel",[980] NHK World HD
