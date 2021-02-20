@@ -124,7 +124,7 @@ rtp://@239.1.1.246:9438
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/694086000067235840/j1VRXvlT_400x400.jpg" group-title="HD Channel",[973] FLiK HD
 rtp://@239.1.1.239:9276
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="HD Channel",[991] HBO HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png" group-title="HD Channel",[991] HBO HD
 rtp://@239.1.1.203:9192
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HD Channel",[992] HBO Hits HD
