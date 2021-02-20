@@ -127,7 +127,7 @@ rtp://@239.1.1.239:9276
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="HD Channel",[991] HBO HD
 rtp://@239.1.1.203:9192
  
-#EXTINF:-1 tvg-logo="https://www.satiitv.com/wp-content/uploads/2016/09/hbohd.jpg" group-title="HD Channel",[992] HBO Hits HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HD Channel",[992] HBO Hits HD
 rtp://@239.1.1.215:9264
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/HBO_Signature_Asia.svg/800px-HBO_Signature_Asia.svg.png" group-title="HD Channel",[993] HBO Signature HD
