@@ -206,19 +206,8 @@ rtp://@239.1.1.203:9192
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HD Channel",[992] HBO Hits HD
 rtp://@239.1.1.215:9264
 
-#EXTINF:0,[993] HBO Signature HD
-rtp://239.1.2.249:9378
-
-#EXTINF:0,[994] HBO Family HD
-rtp://239.1.2.245:9366
-
 #EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png" group-title="HD Channel",[995] RED by HBO HD
 rtp://@239.1.1.133:8772
-
-#EXTINF:-1 tvg-logo="http://ncplus.pl/~/media/n/npl/kanaly/logo%20na%20strony%20kanalow/cineamaxhd.png" group-title="HD Channel",[996] CINEMAX HD
-#####EXTINF:0,[996] Cinemax HD
-rtp://239.1.2.247:9372
-
 
 #EXTINF:-1 tvg-logo="http://www.astropackage.com.my/wp-content/uploads/2016/01/Astro-FFM-HD-ch430.png" group-title="HD Channel",[997] FOX Family Movies HD
 rtp://@239.1.1.237:9396
@@ -228,52 +217,3 @@ rtp://@239.1.1.211:9240
 
 #EXTINF:-1 tvg-logo="https://tva.onscreenasia.com/wp-content/uploads/archive/onscreenasia/image008.png" group-title="HD Channel",[999] FOX Action Movies HD
 rtp://@239.1.1.190:9116
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8f/Star_World_HD_India.png" group-title="HD Channel",Star Wold HD
-rtp://@239.1.1.209:9228
-
-#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Fox%20Movies%20HD.png" group-title="HD Channel",Fox Movie Premium HD
-rtp://@239.1.1.211:9240
-
-
-
-
-
-#####EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b1/FTV_HD_2009.png" group-title="HD Channel",[940] FTV HD
-#####rtp://239.1.2.237:9348
-
-#####EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/725_300.png" group-title="HD Channel",[941] Nat Geo People HD
-####rtp://@239.1.2.229:9330
-
-#####EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/800px-Channel_V_Logo.svg.png" group-title="HD Channel",[942] Channel[V] HD
-####rtp://@239.1.2.235:9342
-
-#####EXTINF:0,[949] Konser HD
-####rtp://239.1.2.221:9250
-
-#####EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/9/94/Fxhd.png" group-title="HD Channel",[957] FX HD
-####rtp://@239.1.2.227:9324
-
-#####EXTINF:0,[964] WARNER HD
-####rtp://239.1.2.244:9078
-
-#####EXTINF:-1 tvg-logo="http://g.udn.com.tw/upfiles/B_CT/ctpeace5656888xyz777/PSN_PHOTO/742/f_10366742_1.png" group-title="HD Channel",[968] Star Chinese Movies HD
-####rtp://@239.1.2.231:9336
-
-#####EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/800px-Logo_tvN.svg.png" group-title="HD Channel",[955] TVN HD
-####rtp://@239.1.2.211:9202
-
-#EXTINF:-1 tvg-logo="http://showsport-tv.com/images/channels/be3.png" group-title="HD Channel",[972] BEIN Sports 3 HD
-rtp://@239.1.1.205:9204
-
-#EXTINF:-1 tvg-logo="http://www.genserv-ph.com/assets/img/sattv/nhkworld.png" group-title="HD Channel",[980] NHK World HD
-rtp://@239.1.2.239:9354
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/800px-Deutsche_Welle_symbol_2012.svg.png" group-title="HD Channel",[981] DW HD
-rtp://@239.1.2.243:9360
-
-#EXTINF:0,[987] NHK World Japan HD
-rtp://239.1.2.239:9354
-
-#EXTINF:0,[988] DW TVHD
-rtp://239.1.2.243:9360
